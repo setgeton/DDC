@@ -1,0 +1,21 @@
+This is the source code of my 1st dissertation project.
+
+I simulate the consequnces of a pension reform for old-age income inequality
+work has been published in LABOUR ECONOMICS (2018) as: "The effects of pension reforms on old-age inequality"
+
+stata files do
+	- manipulate and order spell-data of IAB (employment-histories)
+	- transform tp panel data
+	- create central variables
+	- sample selection
+	- save as csv
+
+matlab-files do
+	- estimate dyn discrete choice model of retirement entry
+	- simulate consequences of a reform
+
+
+
+some files are redundant and commentation is, in general, limited. I' try to fix that in the near future.
+
+
